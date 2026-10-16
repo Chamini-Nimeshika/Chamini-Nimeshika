@@ -26,7 +26,7 @@ Since I'm (still) a full-time Software Engineer, I also like to share my code so
 
 ## Want to connect with me?
 
-* [LinkedIn](https://praneeth.gnomezgrave.com/assets/img/icons/linkedin.png)
-* [GitHub](https://github.com/gnomezgrave)
-* [Facebook](https://www.facebook.com/gnomezGrave)
+* [LinkedIn](https://www.linkedin.com/in/chamini-nimeshika-956276187/)
+* [GitHub](https://github.com/Chamini-Nimeshika)
+* [Facebook](https://www.facebook.com/chamini.lakmali.549)
 
