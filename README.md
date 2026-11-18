@@ -2,9 +2,7 @@
 
 ## Who am I?
 
-I'm a tech enthusiast who would like to explore new technologies, not just programming languages but also devices.
-I love to share knowledge with the rest of the world, and that's why I write a lot of articles, conduct courses, and make YouTube videos.
-Since I'm (still) a full-time Software Engineer, I also like to share my code so others can make use of them.
+I'm a DevOps engineer who loves exploring new technologies, from pipelines and containers to Kubernetes and the cloud. I love sharing what I learn, which is why I've started writing articles on [Medium](https://medium.com/@your-username) about real problems I've troubleshot. I also share my projects and code here so others can learn from them too.
 
 ## My stats
 
@@ -13,11 +11,8 @@ Since I'm (still) a full-time Software Engineer, I also like to share my code so
 
 ## Top Repositories
 
-* [GCP Serverless Orchestrator](https://github.com/Chamini-Nimeshika/2048GameApp.git)
-* [AWS Image Service](https://github.com/gnomezgrave/aws-s3-image-service)
-* [Pull Request Reports](https://github.com/Chamini-Nimeshika/git-beginners.git)
-* [Copy DynamoDB Table](https://github.com/Chamini-Nimeshika/Test_repo.git)
-* [Qt Auto Translator](https://github.com/Chamini-Nimeshika/My-devops_project.git)
+* [2048 Web App on AWS](https://github.com/Chamini-Nimeshika/2048GameApp.git)
+
 
 ## Wanna read my articles?
 
