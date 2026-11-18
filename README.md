@@ -3,7 +3,7 @@
 ## Who am I?
 
 I'm a DevOps engineer who loves exploring new technologies, from pipelines and containers to Kubernetes and the cloud. 
-I love sharing what I learn, which is why I've started writing articles on [Medium](https://medium.com/@your-username) about real problems I've troubleshot. 
+I love sharing what I learn, which is why I've started writing articles on [Medium](https://medium.com/@chamini.nimeshika.lakmali/) about real problems I've troubleshot. 
 I also share my projects and code here so others can learn from them too.
 
 ## My stats
